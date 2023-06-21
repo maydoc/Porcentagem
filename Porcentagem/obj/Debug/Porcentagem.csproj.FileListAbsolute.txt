@@ -25,3 +25,31 @@ C:\Users\Escritório LB\source\repos\Porcentagem\Porcentagem\obj\Debug\Porcentag
 C:\Users\Escritório LB\source\repos\Porcentagem\Porcentagem\obj\Debug\Porcentagem.pdb
 C:\Users\Escritório LB\source\repos\Porcentagem\Porcentagem\obj\Debug\CardHistory.g.cs
 C:\Users\Escritório LB\source\repos\Porcentagem\Porcentagem\obj\Debug\CardHistory.baml
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\Porcentagem.exe.config
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\Porcentagem.exe
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\Porcentagem.pdb
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\MaterialDesignColors.dll
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.csproj.AssemblyReference.cache
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\CardHistory.g.cs
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\MainWindow.g.cs
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\App.g.cs
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem_MarkupCompile.cache
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem_MarkupCompile.lref
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\App.baml
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\CardHistory.baml
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\MainWindow.baml
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.g.resources
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.Properties.Resources.resources
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.csproj.GenerateResource.cache
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.csproj.CoreCompileInputs.cache
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.csproj.CopyComplete
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.exe
+C:\Users\mayro\Source\Repos\maydoc\Porcentagem\Porcentagem\obj\Debug\Porcentagem.pdb
