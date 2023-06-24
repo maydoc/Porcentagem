@@ -23,7 +23,7 @@
                     </TextBlock>
                     <TextBlock>
                         <TextBlock.Inlines>
-                            <Run Text="Valor Inicial: "/>
+                            <Run Text="Valor Final: "/>
                             <Run Text="R$ 90,00" FontSize="14" FontWeight="SemiBold" Name="V_Final"/>
                         </TextBlock.Inlines>
                     </TextBlock>
